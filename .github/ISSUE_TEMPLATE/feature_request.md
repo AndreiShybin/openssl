@@ -1,32 +1,20 @@
 ---
 name: Feature request
-about: Propose a feature you would like to see added in the software
+about: Suggest an idea for this project
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
-<!--
-Thank you for your feature request.
+**Is your feature request related to a problem? Please describe.**
+A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
-NOTE:
+**Describe the solution you'd like**
+A clear and concise description of what you want to happen.
 
-    If you're asking about how to use OpenSSL, this isn't the right 
-    forum.  Please see our User Support resources:
-    https://github.com/openssl/openssl/blob/master/.github/SUPPORT.md
+**Describe alternatives you've considered**
+A clear and concise description of any alternative solutions or features you've considered.
 
-Please remember to put ``` lines before and after any commands plus
-output and code, like this:
-
-    ```
-    $ echo output output output
-    output output output
-    ```
-
-    ```
-    #include <stdio.h>
-    
-    int main() {
-        int foo = 1;
-        printf("%d\n", foo);
-    }
-    ```
--->
+**Additional context**
+Add any other context or screenshots about the feature request here.

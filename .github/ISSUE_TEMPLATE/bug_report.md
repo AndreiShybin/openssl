@@ -1,6 +1,9 @@
 ---
 name: Bug report
 about: Report a defect in the software
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
